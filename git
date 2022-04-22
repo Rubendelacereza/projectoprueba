@@ -1,0 +1,11 @@
+#por favor ingresa el mensaje del comit para tus cambios. Las 
+#lineas que comiencen con' #' sera comentadas, y un mensaje 
+#vacio aborta el commit
+
+#En la rama main
+#Tu rama esta actualizada con 'origin/main'.
+#
+#cambios seran confirmados: 
+#
+#	modificado:	prueba.txt
+#	nuevo archivo:	prueba_github.txt
